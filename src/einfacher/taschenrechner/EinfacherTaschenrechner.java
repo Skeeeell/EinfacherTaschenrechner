@@ -18,7 +18,7 @@ public class EinfacherTaschenrechner {
      * @param args
      */
     public static void main(String[] args) {
-
+        System.out.println("testgit");
         float ergebnis = calculate();
 
         if (ergebnis == 'q') {
